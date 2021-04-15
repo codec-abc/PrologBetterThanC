@@ -1,0 +1,6 @@
+[submodule "SudokuSolver"]
+	path = SudokuSolver
+	url = https://github.com/n2o/SudokuSolver
+[submodule "Parallel_Sudoku_Solver"]
+	path = Parallel_Sudoku_Solver
+	url = https://github.com/RICCIARDI-Adrien/Parallel_Sudoku_Solver.git
